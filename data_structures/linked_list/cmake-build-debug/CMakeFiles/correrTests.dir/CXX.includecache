@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/manu_/OneDrive/Escritorio/Facultad/Algo_II/Labos/AyED2-Labo05-Listas_enlazadas/src/Lista.cpp
+Lista.h
+/mnt/c/Users/manu_/OneDrive/Escritorio/Facultad/Algo_II/Labos/AyED2-Labo05-Listas_enlazadas/src/Lista.h
+cassert
+-
+
+/mnt/c/Users/manu_/OneDrive/Escritorio/Facultad/Algo_II/Labos/AyED2-Labo05-Listas_enlazadas/src/Lista.h
+string
+-
+ostream
+-
+

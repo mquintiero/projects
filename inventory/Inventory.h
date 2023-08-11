@@ -16,7 +16,7 @@ public:
     /*
      * Agrega un articulo al inventario
      */
-    void addProduct(string name, int cantidad, int precio);
+    void addProduct(string name, int& cantidad, int& precio);
 
     /*
      * Edita a la cantidad de unidades que hay

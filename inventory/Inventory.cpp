@@ -7,10 +7,9 @@ Inventory::Inventory(Trie inventory) : _inventory(inventory){}
 /*
  * Agrega un articulo al inventario
  */
-void Inventory::addProduct(const string name, int cantidad, int precio){
+void Inventory::addProduct(const string name, int& cantidad, int& precio){
     stock s(cantidad, precio);
-    stock* ps = &s;
-    _inventory.agregar(name, ps);
+    _inventory.agregar(name, s);
 }
 /*
  * Edita a la cantidad de unidades que hay
@@ -29,11 +28,15 @@ void Inventory::editPrice(string name, int precio){
 /*
  * Edita el nombre de la unidad
  */
-void Inventory::editName(string name, string newName){}
+void Inventory::editName(string name, string newName){
+    stock stockToCopy = _inventory.darStock(name);
+    _inventory.agregar(newName, stockToCopy);
+    _inventory.erase(name);
+}
 
 /*
  * Elimina un articulo del inventario
  */
 void Inventory::deleteStock(string name){
-
+    _inventory.erase(name);
 }

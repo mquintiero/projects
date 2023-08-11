@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Users/manu_/OneDrive/Documentos/inventory/Inventory.cpp" "/mnt/c/Users/manu_/OneDrive/Documentos/inventory/cmake-build-debug/CMakeFiles/inventory.dir/Inventory.cpp.o"
-  "/mnt/c/Users/manu_/OneDrive/Documentos/inventory/Trie.cpp" "/mnt/c/Users/manu_/OneDrive/Documentos/inventory/cmake-build-debug/CMakeFiles/inventory.dir/Trie.cpp.o"
-  "/mnt/c/Users/manu_/OneDrive/Documentos/inventory/main.cpp" "/mnt/c/Users/manu_/OneDrive/Documentos/inventory/cmake-build-debug/CMakeFiles/inventory.dir/main.cpp.o"
+  "/mnt/c/Users/manu_/OneDrive/Escritorio/projects/projects/inventory/Inventory.cpp" "/mnt/c/Users/manu_/OneDrive/Escritorio/projects/projects/inventory/cmake-build-debug/CMakeFiles/inventory.dir/Inventory.cpp.o"
+  "/mnt/c/Users/manu_/OneDrive/Escritorio/projects/projects/inventory/Trie.cpp" "/mnt/c/Users/manu_/OneDrive/Escritorio/projects/projects/inventory/cmake-build-debug/CMakeFiles/inventory.dir/Trie.cpp.o"
+  "/mnt/c/Users/manu_/OneDrive/Escritorio/projects/projects/inventory/main.cpp" "/mnt/c/Users/manu_/OneDrive/Escritorio/projects/projects/inventory/cmake-build-debug/CMakeFiles/inventory.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

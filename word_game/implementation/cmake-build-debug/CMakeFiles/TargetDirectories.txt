@@ -1,0 +1,6 @@
+/mnt/c/Users/manu_/OneDrive/Escritorio/projects/projects/word_game/implementation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/manu_/OneDrive/Escritorio/projects/projects/word_game/implementation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/manu_/OneDrive/Escritorio/projects/projects/word_game/implementation/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/mnt/c/Users/manu_/OneDrive/Escritorio/projects/projects/word_game/implementation/cmake-build-debug/CMakeFiles/correrTests.dir
+/mnt/c/Users/manu_/OneDrive/Escritorio/projects/projects/word_game/implementation/cmake-build-debug/CMakeFiles/gtest_main.dir
+/mnt/c/Users/manu_/OneDrive/Escritorio/projects/projects/word_game/implementation/cmake-build-debug/CMakeFiles/gtest.dir

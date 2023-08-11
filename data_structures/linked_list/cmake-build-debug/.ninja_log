@@ -1,0 +1,11 @@
+# ninja log v5
+1	46	1663944437256611606	libgtest_main.a	2b245cf3c2fb1789
+1	72	1663944437280611401	libgtest.a	d66b272dff26181d
+180	296	1663952166275912876	correrTests	a27b318b57d0cfb6
+7	305	6856777493453933	CMakeFiles/correrTests.dir/src/Lista.cpp.obj	2b2cb8ae93df586a
+4	676	6856777497161532	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.obj	e91746e2cfc04eb5
+676	806	6856777498467163	libgtest_main.a	f8a2b5f14b8f02bf
+9	841	6856777498811083	CMakeFiles/correrTests.dir/tests/lista_tests.cpp.obj	e9a04baafa73fbf9
+1	3610	6856777526430700	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.obj	306e8b8d91d9bd40
+3615	4383	6856777534243833	libgtest.a	ad11608b5d2005b7
+4383	5430	6856777544668362	correrTests.exe	d33b4b4442871b48
