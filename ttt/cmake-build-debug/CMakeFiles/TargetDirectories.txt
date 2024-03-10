@@ -1,3 +1,0 @@
-/mnt/c/Users/manu_/OneDrive/Documentos/ttt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/manu_/OneDrive/Documentos/ttt/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/manu_/OneDrive/Documentos/ttt/cmake-build-debug/CMakeFiles/ttt.dir
